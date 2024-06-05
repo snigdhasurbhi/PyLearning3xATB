@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.venv/Ex_03062024/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/LAb006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/Ex_03062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Lab001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,34 +36,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "snigdhasurbhi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;snigdhasurbhi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/snigdhasurbhi/PyLearning3xATB001.git",
-    "accountId": "3e9cf75d-080e-4dc3-9512-921c3c857b48"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/snigdhasurbhi/PyLearning3xATB001.git&quot;,
+    &quot;accountId&quot;: &quot;3e9cf75d-080e-4dc3-9512-921c3c857b48&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hQNwsJuINSo42z3XisIiwPpH1T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAb006.executor": "Run",
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\snigd\PycharmProjects\PyLearning 3xATB" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
