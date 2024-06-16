@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Literal and operators">
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task2_12062024-triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task2_12062024Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task2_12062024fabonaci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task2_12062024leapyr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task2_10062024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task1_10062024squ_cube.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,16 +100,73 @@
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
+    "Python.Task2_12062024Factorial.executor": "Run",
+    "Python.Task2_12062024Fibonaci.executor": "Run",
+    "Python.Task2_12062024fabonaci.executor": "Run",
+    "Python.Task3_12062024.executor": "Run",
+    "Python.Task4_12062024-triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\snigd\PycharmProjects\PyLearning 3xATB" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.Task2_12062024fabonaci">
+    <configuration name="Task2_12062024Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning 3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\snigd\PycharmProjects\PyLearning 3xATB\Task\Task2_12062024Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task2_12062024fabonaci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning 3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task2_12062024fabonaci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Task2_12062024fabonaci" />
+        <item itemvalue="Python.Task2_12062024Factorial" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -163,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718211415593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Literal and operators">
+      <option name="closed" value="true" />
+      <created>1718523660289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718523660289</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
