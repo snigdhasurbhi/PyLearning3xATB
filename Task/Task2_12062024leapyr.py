@@ -2,10 +2,16 @@
 # A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.
 # Use an if-else statement to make this determination.
 # Output the result using a suitable message.
+#year =2024
+#year %4 ==0
+#year %100 !=0
+#year %400 ==0
 
 year = int(input("Enter a year: "))
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-    print(f"The year {year} is a leap year.")
+    print(f"The year {year} is a leap year.") #f string used for
+else:
+    print(f"The year {year} is not a leap year.")
 
 # year = int(input("Enter a year: "))
 # def is_leap(year):
