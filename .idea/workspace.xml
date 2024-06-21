@@ -4,28 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Condition and loops">
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab069.py" afterDir="false" />
+    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Functions">
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task3_17062024different types of functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_14062024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_14062024/Lab051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Task2_12062024leapyr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task2_12062024leapyr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,12 +128,27 @@
     "Python.Lab064.executor": "Run",
     "Python.Lab067.executor": "Run",
     "Python.Lab068.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077.executor": "Run",
+    "Python.Lab078.executor": "Run",
+    "Python.Lab079.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab082.executor": "Run",
+    "Python.Lab083.executor": "Run",
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
     "Python.Task2_12062024Factorial.executor": "Run",
     "Python.Task2_12062024Fibonaci.executor": "Run",
     "Python.Task2_12062024fabonaci.executor": "Run",
+    "Python.Task2_12062024leapyr.executor": "Run",
     "Python.Task3_12062024.executor": "Run",
     "Python.Task4_12062024-triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -299,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718575065970</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Functions">
+      <option name="closed" value="true" />
+      <created>1718651713971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718651713971</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,7 +325,8 @@
     <MESSAGE value="Literal and operators" />
     <MESSAGE value="task2-fac,fab,triangle" />
     <MESSAGE value="Condition and loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Condition and loops" />
+    <MESSAGE value="Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
