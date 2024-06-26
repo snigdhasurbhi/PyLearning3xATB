@@ -1,4 +1,4 @@
-#important question
+ortant question
 #Lambda Expression= to do the task in a single line of code
 # 1. what is the output of the following code?
 # numbers = [1.0, 2.0, 3.0, 4.0]
