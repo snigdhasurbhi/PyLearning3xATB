@@ -4,27 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Functions Scope">
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab101.py" afterDir="false" />
+    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Tuple, decorator, dictonary">
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Countvowels_and_consonant_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Palidrome_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Right_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024String_reverse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_19062024/Lab074.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_19062024/Lab074.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +156,12 @@
     "Python.Lab099.executor": "Run",
     "Python.Lab100.executor": "Run",
     "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
@@ -173,6 +171,7 @@
     "Python.Task2_12062024leapyr.executor": "Run",
     "Python.Task3_12062024.executor": "Run",
     "Python.Task4_12062024-triangle.executor": "Run",
+    "Python.Task4_21062024Right_triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -199,6 +198,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab051.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab107" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning 3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab107.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,6 +274,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab107" />
         <item itemvalue="Python.Lab051" />
         <item itemvalue="Python.Task2_12062024fabonaci" />
         <item itemvalue="Python.Task2_12062024Factorial" />
@@ -347,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718968217370</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Tuple, decorator, dictonary">
+      <option name="closed" value="true" />
+      <created>1719385511163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719385511163</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -357,7 +387,8 @@
     <MESSAGE value="Condition and loops" />
     <MESSAGE value="Functions" />
     <MESSAGE value="Functions Scope" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions Scope" />
+    <MESSAGE value="Tuple, decorator, dictonary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuple, decorator, dictonary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
