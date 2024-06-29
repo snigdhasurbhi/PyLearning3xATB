@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="Tuple, decorator, dictonary">
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Countvowels_and_consonant_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Palidrome_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024Right_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task4_21062024String_reverse.py" afterDir="false" />
+    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="filters in python">
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab118.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +161,16 @@
     "Python.Lab105.executor": "Run",
     "Python.Lab106.executor": "Run",
     "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab111.executor": "Run",
+    "Python.Lab112.executor": "Run",
+    "Python.Lab113.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
@@ -377,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719385511163</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="filters in python">
+      <option name="closed" value="true" />
+      <created>1719500065170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719500065170</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -388,7 +405,8 @@
     <MESSAGE value="Functions" />
     <MESSAGE value="Functions Scope" />
     <MESSAGE value="Tuple, decorator, dictonary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuple, decorator, dictonary" />
+    <MESSAGE value="filters in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="filters in python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
