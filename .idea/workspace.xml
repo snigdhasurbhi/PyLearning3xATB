@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="filters in python">
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab118.py" afterDir="false" />
+    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="opps,class, constructor in python">
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab129.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,6 +172,17 @@
     "Python.Lab116.executor": "Run",
     "Python.Lab117.executor": "Run",
     "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
+    "Python.Lab121.executor": "Run",
+    "Python.Lab122.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
@@ -237,6 +249,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning 3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab125.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task2_12062024Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning 3xATB" />
       <option name="ENV_FILES" value="" />
@@ -283,8 +317,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab107" />
+        <item itemvalue="Python.Lab125" />
         <item itemvalue="Python.Lab051" />
+        <item itemvalue="Python.Lab107" />
         <item itemvalue="Python.Task2_12062024fabonaci" />
         <item itemvalue="Python.Task2_12062024Factorial" />
       </list>
@@ -394,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719500065170</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="opps,class, constructor in python">
+      <option name="closed" value="true" />
+      <created>1719651445751</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719651445751</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -406,7 +449,8 @@
     <MESSAGE value="Functions Scope" />
     <MESSAGE value="Tuple, decorator, dictonary" />
     <MESSAGE value="filters in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="filters in python" />
+    <MESSAGE value="opps,class, constructor in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="opps,class, constructor in python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
