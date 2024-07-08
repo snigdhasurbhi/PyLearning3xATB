@@ -4,29 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="opps,Encapsulation in python">
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/LAb131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/xyz/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/xyz/filexyz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_01072024/xyz/utlifiles.py" afterDir="false" />
+    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="opps,inheritance in python">
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/textdata2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Snigdha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/TD.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/TestData.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +83,7 @@
   "keyToString": {
     "Python.LAb006.executor": "Run",
     "Python.LAb131.executor": "Run",
+    "Python.LAb163.executor": "Run",
     "Python.Lab.executor": "Run",
     "Python.Lab0.executor": "Run",
     "Python.Lab001.executor": "Run",
@@ -212,6 +221,27 @@
     "Python.Lab145.executor": "Run",
     "Python.Lab146.executor": "Run",
     "Python.Lab147.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
+    "Python.Lab150.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab154.executor": "Run",
+    "Python.Lab155.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
+    "Python.Lab158.executor": "Run",
+    "Python.Lab159.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
+    "Python.Lab162.executor": "Run",
+    "Python.Lab164.executor": "Run",
+    "Python.Lab165.executor": "Run",
+    "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab169.executor": "Run",
+    "Python.Lab170.executor": "Run",
+    "Python.Lab171.executor": "Run",
+    "Python.Lab173.executor": "Run",
     "Python.List023.executor": "Run",
     "Python.Task1_10062024.executor": "Run",
     "Python.Task2_10062024.executor": "Run",
@@ -347,10 +377,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab107" />
         <item itemvalue="Python.Lab139" />
         <item itemvalue="Python.Lab125" />
         <item itemvalue="Python.Lab051" />
-        <item itemvalue="Python.Lab107" />
         <item itemvalue="Python.Task2_12062024fabonaci" />
       </list>
     </recent_temporary>
@@ -475,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719969437177</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="opps,inheritance in python">
+      <option name="closed" value="true" />
+      <created>1720386841780</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1720386841780</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -489,7 +527,8 @@
     <MESSAGE value="filters in python" />
     <MESSAGE value="opps,class, constructor in python" />
     <MESSAGE value="opps,Encapsulation in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="opps,Encapsulation in python" />
+    <MESSAGE value="opps,inheritance in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="opps,inheritance in python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
