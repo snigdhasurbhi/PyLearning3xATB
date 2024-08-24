@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="opps,Exception handling in python">
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/APITestinglearning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab174.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab177.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Lab178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/Pythontesting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_05072024/testdata.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d07f5237-06dc-48a8-bccd-3315e62ab0d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR
+$/.idea/Pylearning_3xATB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 12th_28062024/Login_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 12th_28062024/VWO_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05_12062024/Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05_12062024/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05_12062024/multiple_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10th_24062024/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10th_24062024/Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10th_24062024/Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9th 21062024/Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9th 21062024/Dictonary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9th 21062024/Real_Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9th 21062024/Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9th 21062024/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_Practice/Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +35,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,341 +42,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;snigdhasurbhi&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/snigdhasurbhi/PyLearning3xATB001.git&quot;,
-    &quot;accountId&quot;: &quot;3e9cf75d-080e-4dc3-9512-921c3c857b48&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Ex_03062024/Lab001.py" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2hQNwsJuINSo42z3XisIiwPpH1T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2hmtbdk1Aru1XdqQy8mWOrptxi0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.LAb006.executor": "Run",
-    "Python.LAb131.executor": "Run",
-    "Python.LAb163.executor": "Run",
-    "Python.Lab.executor": "Run",
-    "Python.Lab0.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab025.executor": "Run",
-    "Python.Lab026.executor": "Run",
-    "Python.Lab027.executor": "Run",
-    "Python.Lab028.executor": "Run",
-    "Python.Lab029.executor": "Run",
-    "Python.Lab030.executor": "Run",
-    "Python.Lab031.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab033.executor": "Run",
-    "Python.Lab034.executor": "Run",
-    "Python.Lab035.executor": "Run",
-    "Python.Lab036.executor": "Run",
-    "Python.Lab037.executor": "Run",
-    "Python.Lab038.executor": "Run",
-    "Python.Lab039.executor": "Run",
-    "Python.Lab040.executor": "Run",
-    "Python.Lab041.executor": "Run",
-    "Python.Lab042.executor": "Run",
-    "Python.Lab043.executor": "Run",
-    "Python.Lab044.executor": "Run",
-    "Python.Lab045.executor": "Run",
-    "Python.Lab046.executor": "Run",
-    "Python.Lab047.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab049.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab053.executor": "Run",
-    "Python.Lab054.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056.executor": "Run",
-    "Python.Lab057.executor": "Run",
-    "Python.Lab058.executor": "Run",
-    "Python.Lab059.executor": "Run",
-    "Python.Lab062.executor": "Run",
-    "Python.Lab063.executor": "Run",
-    "Python.Lab064.executor": "Run",
-    "Python.Lab067.executor": "Run",
-    "Python.Lab068.executor": "Run",
-    "Python.Lab070.executor": "Run",
-    "Python.Lab071.executor": "Run",
-    "Python.Lab072.executor": "Run",
-    "Python.Lab073.executor": "Run",
-    "Python.Lab074.executor": "Run",
-    "Python.Lab075.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077.executor": "Run",
-    "Python.Lab078.executor": "Run",
-    "Python.Lab079.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086.executor": "Run",
-    "Python.Lab087.executor": "Run",
-    "Python.Lab088.executor": "Run",
-    "Python.Lab089.executor": "Run",
-    "Python.Lab090.executor": "Run",
-    "Python.Lab091.executor": "Run",
-    "Python.Lab092.executor": "Run",
-    "Python.Lab093.executor": "Run",
-    "Python.Lab094.executor": "Run",
-    "Python.Lab095.executor": "Run",
-    "Python.Lab096.executor": "Run",
-    "Python.Lab097.executor": "Run",
-    "Python.Lab098.executor": "Run",
-    "Python.Lab099.executor": "Run",
-    "Python.Lab100.executor": "Run",
-    "Python.Lab101.executor": "Run",
-    "Python.Lab102.executor": "Run",
-    "Python.Lab103.executor": "Run",
-    "Python.Lab104.executor": "Run",
-    "Python.Lab105.executor": "Run",
-    "Python.Lab106.executor": "Run",
-    "Python.Lab107.executor": "Run",
-    "Python.Lab108.executor": "Run",
-    "Python.Lab109.executor": "Run",
-    "Python.Lab111.executor": "Run",
-    "Python.Lab112.executor": "Run",
-    "Python.Lab113.executor": "Run",
-    "Python.Lab114.executor": "Run",
-    "Python.Lab115.executor": "Run",
-    "Python.Lab116.executor": "Run",
-    "Python.Lab117.executor": "Run",
-    "Python.Lab118.executor": "Run",
-    "Python.Lab119.executor": "Run",
-    "Python.Lab120.executor": "Run",
-    "Python.Lab121.executor": "Run",
-    "Python.Lab122.executor": "Run",
-    "Python.Lab123.executor": "Run",
-    "Python.Lab124.executor": "Run",
-    "Python.Lab125.executor": "Run",
-    "Python.Lab126.executor": "Run",
-    "Python.Lab127.executor": "Run",
-    "Python.Lab128.executor": "Run",
-    "Python.Lab129.executor": "Run",
-    "Python.Lab130.executor": "Run",
-    "Python.Lab132.executor": "Run",
-    "Python.Lab133.executor": "Run",
-    "Python.Lab134.executor": "Run",
-    "Python.Lab135.executor": "Run",
-    "Python.Lab136.executor": "Run",
-    "Python.Lab137.executor": "Run",
-    "Python.Lab138.executor": "Run",
-    "Python.Lab139.executor": "Run",
-    "Python.Lab140.executor": "Run",
-    "Python.Lab141.executor": "Run",
-    "Python.Lab142.executor": "Run",
-    "Python.Lab143.executor": "Run",
-    "Python.Lab144.executor": "Run",
-    "Python.Lab145.executor": "Run",
-    "Python.Lab146.executor": "Run",
-    "Python.Lab147.executor": "Run",
-    "Python.Lab148.executor": "Run",
-    "Python.Lab149.executor": "Run",
-    "Python.Lab150.executor": "Run",
-    "Python.Lab152.executor": "Run",
-    "Python.Lab154.executor": "Run",
-    "Python.Lab155.executor": "Run",
-    "Python.Lab156.executor": "Run",
-    "Python.Lab157.executor": "Run",
-    "Python.Lab158.executor": "Run",
-    "Python.Lab159.executor": "Run",
-    "Python.Lab160.executor": "Run",
-    "Python.Lab161.executor": "Run",
-    "Python.Lab162.executor": "Run",
-    "Python.Lab164.executor": "Run",
-    "Python.Lab165.executor": "Run",
-    "Python.Lab166.executor": "Run",
-    "Python.Lab167.executor": "Run",
-    "Python.Lab169.executor": "Run",
-    "Python.Lab170.executor": "Run",
-    "Python.Lab171.executor": "Run",
-    "Python.Lab173.executor": "Run",
-    "Python.Lab174.executor": "Run",
-    "Python.Lab175.executor": "Run",
-    "Python.Lab176.executor": "Run",
-    "Python.Lab177.executor": "Run",
-    "Python.List023.executor": "Run",
-    "Python.Task1_10062024.executor": "Run",
-    "Python.Task2_10062024.executor": "Run",
-    "Python.Task2_12062024Factorial.executor": "Run",
-    "Python.Task2_12062024Fibonaci.executor": "Run",
-    "Python.Task2_12062024fabonaci.executor": "Run",
-    "Python.Task2_12062024leapyr.executor": "Run",
-    "Python.Task3_12062024.executor": "Run",
-    "Python.Task4_12062024-triangle.executor": "Run",
-    "Python.Task4_21062024Right_triangle.executor": "Run",
-    "Python.utlifiles.executor": "Run",
+    "Python.Calculator.executor": "Run",
+    "Python.Decorators.executor": "Run",
+    "Python.Filter.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Real_Decorator.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Tuple.executor": "Run",
+    "Python.VWO_Login.executor": "Run",
+    "Python.multiple_condition.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "pyconsole"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\snigd\PycharmProjects\PyLearning 3xATB" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning 3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab051.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab107" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning 3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_24062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_24062024/Lab107.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning 3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab125.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab139" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning 3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_01072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_01072024/Lab139.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task2_12062024fabonaci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning 3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task2_12062024fabonaci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Lab107" />
-        <item itemvalue="Python.Lab139" />
-        <item itemvalue="Python.Lab125" />
-        <item itemvalue="Python.Lab051" />
-        <item itemvalue="Python.Task2_12062024fabonaci" />
-      </list>
-    </recent_temporary>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Pylearning_3xATB" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Pylearning_3xATB" />
+      </console-settings>
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -377,164 +85,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12c50d64-f5e4-402a-85b7-5cc280c72439" name="Changes" comment="" />
-      <created>1717522584241</created>
+      <changelist id="d07f5237-06dc-48a8-bccd-3315e62ab0d3" name="Changes" comment="" />
+      <created>1718211152680</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717522584241</updated>
+      <updated>1718211152680</updated>
     </task>
-    <task id="LOCAL-00001" summary="Variable and Datatypes">
-      <option name="closed" value="true" />
-      <created>1717617538161</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1717617538161</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Variable and Datatypes">
-      <option name="closed" value="true" />
-      <created>1718125906018</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1718125906018</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Literal and operators">
-      <option name="closed" value="true" />
-      <created>1718171551282</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1718171551282</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Literal and operators">
-      <option name="closed" value="true" />
-      <created>1718211415593</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1718211415593</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Literal and operators">
-      <option name="closed" value="true" />
-      <created>1718523660289</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1718523660289</updated>
-    </task>
-    <task id="LOCAL-00006" summary="task2-fac,fab,triangle">
-      <option name="closed" value="true" />
-      <created>1718561105908</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1718561105908</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Condition and loops">
-      <option name="closed" value="true" />
-      <created>1718575065970</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1718575065970</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Functions">
-      <option name="closed" value="true" />
-      <created>1718651713971</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1718651713971</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Functions Scope">
-      <option name="closed" value="true" />
-      <created>1718968217370</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1718968217370</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Tuple, decorator, dictonary">
-      <option name="closed" value="true" />
-      <created>1719385511163</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1719385511163</updated>
-    </task>
-    <task id="LOCAL-00011" summary="filters in python">
-      <option name="closed" value="true" />
-      <created>1719500065170</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1719500065170</updated>
-    </task>
-    <task id="LOCAL-00012" summary="opps,class, constructor in python">
-      <option name="closed" value="true" />
-      <created>1719651445751</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1719651445751</updated>
-    </task>
-    <task id="LOCAL-00013" summary="opps,Encapsulation in python">
-      <option name="closed" value="true" />
-      <created>1719969437177</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1719969437177</updated>
-    </task>
-    <task id="LOCAL-00014" summary="opps,inheritance in python">
-      <option name="closed" value="true" />
-      <created>1720386841780</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1720386841780</updated>
-    </task>
-    <task id="LOCAL-00015" summary="opps,Exception handling in python">
-      <option name="closed" value="true" />
-      <created>1720400559163</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1720400559163</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Variable and Datatypes" />
-    <MESSAGE value="Literal and operators" />
-    <MESSAGE value="task2-fac,fab,triangle" />
-    <MESSAGE value="Condition and loops" />
-    <MESSAGE value="Functions" />
-    <MESSAGE value="Functions Scope" />
-    <MESSAGE value="Tuple, decorator, dictonary" />
-    <MESSAGE value="filters in python" />
-    <MESSAGE value="opps,class, constructor in python" />
-    <MESSAGE value="opps,Encapsulation in python" />
-    <MESSAGE value="opps,inheritance in python" />
-    <MESSAGE value="opps,Exception handling in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="opps,Exception handling in python" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Task/Task1_10062024.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Ex_12062024/Lab038.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
